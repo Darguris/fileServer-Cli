@@ -1,0 +1,17 @@
+{
+  "name": "file-server-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "help": "node src/app.js --help"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "chalk": "^4.1.0",
+    "form-data": "^3.0.0",
+    "yargs": "^16.0.3"
+  }
+}
